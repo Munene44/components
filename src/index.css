@@ -1,5 +1,5 @@
 body {
-  background-color: #FFCC00;
+  background-color:   #00FFFF;
   padding: 20px;
   margin: 0;
 }
@@ -23,7 +23,7 @@ ul.header li a {
   display: inline-block;
 }
 .content {
-  background-color: #FFF;
+  background-color: #FFB6C1;
   padding: 20px;
 }
 .content h2 {
