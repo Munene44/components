@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import ReactImageAppear from 'react-image-appear';
+import Resizer from 'react-image-file-resizer';
 
 
 class More extends Component {
