@@ -4,6 +4,7 @@ class Home extends Component {
   render() {
     return (
       <div>
+      <img src={this.props.src}/>
         <h2>Reacting</h2>
         <p>Another thing that can be confusing to people is that attributes are not automatically passed
 down to all the nested children when they are nested more than one level. You’ll see that the
