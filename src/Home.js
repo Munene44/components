@@ -4,13 +4,11 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <h2>HELLO</h2>
-        <p>Cras facilisis urna ornare ex volutpat, et
-        convallis erat elementum. Ut aliquam, ipsum vitae
-        gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-        metus nec massa. Maecenas hendrerit laoreet augue
-        nec molestie. Cum sociis natoque penatibus et magnis
-        dis parturient montes, nascetur ridiculus mus.</p>
+        <h2>Reacting</h2>
+        <p>Another thing that can be confusing to people is that attributes are not automatically passed
+down to all the nested children when they are nested more than one level. You’ll see that the
+function attribute passed to Home must also be passed down to the Saves component, and it
+can have a completely different name! The same goes for all the other props. Here, we</p>
  
         <p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
       </div>
