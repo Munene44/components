@@ -1,20 +1,16 @@
 import React, { Component } from "react";
- 
+import ReactImageAppear from 'react-image-appear';
+
+
 class More extends Component {
   render() {
     return (
-      <div>
-        <h2>STUFF</h2>
-        <p>Mauris sem velit, vehicula eget sodales vitae,
-        rhoncus eget sapien:</p>
-        <ol>
-          <li>Nulla pulvinar diam</li>
-          <li>Facilisis bibendum</li>
-          <li>Vestibulum vulputate</li>
-          <li>Eget erat</li>
-          <li>Id porttitor</li>
-        </ol>
-      </div>
+
+ <ReactImageAppear 
+    src="https://newevolutiondesigns.com/images/freebies/tropical-beach-background-8.jpg"
+    loaderStyle={{ border: "2px solid red" }}
+/>
+ 
     );
   }
 }
