@@ -27,6 +27,8 @@ class Main extends Component {
             <li><NavLink to="/contact">Contact</NavLink></li>
             <li><NavLink to="/more">More</NavLink></li>
             <li><NavLink to="/header">Header</NavLink></li>
+            <li><NavLink to="/form">Fill form</NavLink></li>
+
 
           </ul>
           <div className="content">
