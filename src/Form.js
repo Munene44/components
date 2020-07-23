@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-class MyForm extends React.Component {
+class Form extends React.Component {
   constructor(props) {
     super(props);
     this.state = { username: '' };
@@ -30,5 +30,4 @@ class MyForm extends React.Component {
   }
 }
 
-ReactDOM.render(<MyForm />, document.getElementById('root'));
-
+export default Form;
