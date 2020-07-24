@@ -10,6 +10,8 @@ import Contact from "./Contact";
 import More from "./More";
 import Header from "./Header"
 import Form from "./Form"
+import Blog from "./Blog"
+
 
 
 
