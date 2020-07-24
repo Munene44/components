@@ -30,6 +30,7 @@ class Main extends Component {
             <li><NavLink to="/more">More</NavLink></li>
             <li><NavLink to="/header">Header</NavLink></li>
             <li><NavLink to="/form">Fill form</NavLink></li>
+            <li><NavLink to="/form">Fill form</NavLink></li>
 
 
           </ul>
