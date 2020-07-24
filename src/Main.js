@@ -30,7 +30,7 @@ class Main extends Component {
             <li><NavLink to="/more">More</NavLink></li>
             <li><NavLink to="/header">Header</NavLink></li>
             <li><NavLink to="/form">Fill form</NavLink></li>
-            <li><NavLink to="/form">Fill form</NavLink></li>
+            <li><NavLink to="/blog">blog </NavLink></li>
 
 
           </ul>
@@ -41,6 +41,8 @@ class Main extends Component {
           <Route path="/more" component={More}/>
           <Route path="/header" component={Header}/>
           <Route path="/form" component={Form}/>
+          <Route path="/blog" component={Blog}/>
+
 
 
 
