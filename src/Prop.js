@@ -27,3 +27,6 @@ Prop.defaultProps = {
 name: 'Bob',
 initialCount: 0
 };
+
+
+export default Prop;
