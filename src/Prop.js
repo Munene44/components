@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 class Prop extends React.Component {
 constructor(props){
 super(props);
@@ -20,7 +23,7 @@ You clicked the button {this.state.count} times.<br />
 );
 }
 }
-MyReactClass.defaultProps = {
+Prop.defaultProps = {
 name: 'Bob',
 initialCount: 0
 };
