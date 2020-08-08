@@ -16,3 +16,5 @@ class Pic extends React.Component {
         );
     }
 }
+
+export default Pic;
