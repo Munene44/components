@@ -50,6 +50,8 @@ class Main extends Component {
           <Route path="/form" component={Form}/>
           <Route path="/blog" component={Blog}/>
           <Route path="/prop" component={Prop}/>
+          <Route path="/pic" component={Pic}/>
+
 
 
 
