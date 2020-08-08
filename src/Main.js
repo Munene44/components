@@ -14,11 +14,6 @@ import Blog from "./Blog"
 import Prop from "./Prop"
 import Pic from "./Pic"
 
-
-
-
-
- 
 class Main extends Component {
   render() {
   
@@ -52,12 +47,7 @@ class Main extends Component {
           <Route path="/prop" component={Prop}/>
           <Route path="/pic" component={Pic}/>
 
-
-
-
-
-
-             
+   
           </div>
         </div>
         </HashRouter>
