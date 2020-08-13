@@ -13,6 +13,9 @@ import Form from "./Form"
 import Blog from "./Blog"
 import Prop from "./Prop"
 import Pic from "./Pic"
+import Ploss from "./Ploss"
+
+
 
 class Main extends Component {
   render() {
