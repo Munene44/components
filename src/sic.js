@@ -19,3 +19,5 @@ class sic extends Component {
     );
   }
 }
+
+export default Sic;
