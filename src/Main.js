@@ -14,7 +14,7 @@ import Blog from "./Blog"
 import Prop from "./Prop"
 import Pic from "./Pic"
 import Ploss from "./Ploss"
-import Pic from "./Ploss"
+import Pic from "./Pic"
 
 
 
