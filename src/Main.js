@@ -37,6 +37,8 @@ class Main extends Component {
             <li><NavLink to="/prop">prop</NavLink></li>
             <li><NavLink to="/pic">pic</NavLink></li>
             <li><NavLink to="/ploss">ploss</NavLink></li>
+            <li><NavLink to="/pic">pic</NavLink></li>
+
 
 
 
