@@ -6,7 +6,7 @@ class Header extends Component {
       <div>
         <h2>STUFFs</h2>
         <p>Mauris sem velit, vehicula eget sodales vitae,
-        rhoncus eget sapien:</p>
+        rhoncus egets sapien:</p>
         <ol>
           <li>Nulla pulvinar diam</li>
           <li>Facilisis bibendum</li>
