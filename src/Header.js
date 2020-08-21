@@ -11,7 +11,7 @@ class Header extends Component {
           <li>Nulla pulvinar diam</li>
           <li>Facilisis bibendum</li>
           <li>Vestibulum vulputate</li>
-          <li>Eget erat</li>
+          <li>Eget erssat</li>
           <li>Id porttitors</li>
         </ol>
       </div>
