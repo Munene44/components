@@ -1,1 +1,1 @@
-mas.js
+import React from 'react';
