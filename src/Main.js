@@ -46,7 +46,7 @@ class Main extends Component {
             <li><NavLink to="/pic">pic</NavLink></li>
             <li><NavLink to="/ksi">ksi</NavLink></li>
             <li><NavLink to="/lil">lil</NavLink></li>
-            <li><NavLink to="/mas">lil</NavLink></li>
+            <li><NavLink to="/mas">mas</NavLink></li>
 
 
 
@@ -71,6 +71,8 @@ class Main extends Component {
           <Route path="/pic" component={Pic}/>
           <Route path="/ksi" component={ksi}/>
           <Route path="/lil" component={lil}/>
+                    <Route path="/lil" component={lil}/>
+
 
 
 
