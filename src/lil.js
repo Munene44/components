@@ -1,1 +1,1 @@
-lil.js
+import React from 'react';
