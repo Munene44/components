@@ -46,7 +46,7 @@ class Main extends Component {
             <li><NavLink to="/pic">pic</NavLink></li>
             <li><NavLink to="/ksi">ksi</NavLink></li>
             <li><NavLink to="/lil">lil</NavLink></li>
-            <li><NavLink to="/lil">lil</NavLink></li>
+            <li><NavLink to="/mas">lil</NavLink></li>
 
 
 
