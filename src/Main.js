@@ -71,7 +71,7 @@ class Main extends Component {
           <Route path="/pic" component={Pic}/>
           <Route path="/ksi" component={ksi}/>
           <Route path="/lil" component={lil}/>
-                    <Route path="/lil" component={lil}/>
+          <Route path="/lil" component={lil}/>
 
 
 
