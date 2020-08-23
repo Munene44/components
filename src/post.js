@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 
-class Home extends Component {
+class post extends Component {
   render() {
     return (
       <div>
