@@ -75,7 +75,7 @@ class Main extends Component {
           <Route path="/ksi" component={ksi}/>
           <Route path="/lil" component={lil}/>
           <Route path="/mas" component={mas}/>
-
+          <Route path="/mas" component={mas}/>
 
 
 
