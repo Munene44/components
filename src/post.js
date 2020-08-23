@@ -18,3 +18,5 @@ can have a completely different name! The same goes for all the other props. Her
     );
   }
 }
+
+export default mas;
