@@ -1,1 +1,1 @@
-post.js
+import React from 'react';
