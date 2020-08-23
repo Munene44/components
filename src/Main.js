@@ -18,6 +18,8 @@ import Pic from "./Pic"
 import ksi from "./ksi"
 import lil from "./lil"
 import mas from "./mas"
+import post from "./post"
+
 
 
 
@@ -46,6 +48,7 @@ class Main extends Component {
             <li><NavLink to="/pic">pic</NavLink></li>
             <li><NavLink to="/ksi">ksi</NavLink></li>
             <li><NavLink to="/lil">lil</NavLink></li>
+            <li><NavLink to="/mas">mas</NavLink></li>
             <li><NavLink to="/mas">mas</NavLink></li>
 
 
