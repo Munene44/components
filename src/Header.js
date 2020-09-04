@@ -9,7 +9,7 @@ class Header extends Component {
         rhoncus egets sapien:</p>
         <ol>
           <li>Nullas pulvinar diam</li>
-          <li>Facilisis bibendum</li>
+          <li>Facilisis bsibendum</li>
           <li>Vestibulum vulputate</li>
           <li>Eget erssat</li>
           <li>Id porttitors</li>
