@@ -10,7 +10,7 @@ class Home extends Component {
       <img src={this.props.src}/>
         <h2>Reactinsg</h2>
         <p>Anoother thing that can be confusing to people is that attributes are not automatically passed
-down to all the nested children when they are nested more than one level. You’ll see that the
+down to all the nesteds children when they are nested more than one level. You’ll see that the
 function attribute passed to Home must also be passed down to the Saves component, and it
 can have a completely different name! The same goes for all the other props. Here, we</p>
  
