@@ -12,7 +12,7 @@ class Header extends Component {
           <li>Facilisis bsibendum</li>
           <li>Vestibulum vulputate</li>
           <li>Eget erssat</li>
-          <li>Id porttitors</li>
+          <li>Idd porttitors</li>
         </ol>
       </div>
     );
