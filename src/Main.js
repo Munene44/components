@@ -80,6 +80,7 @@ class Main extends Component {
           <Route path="/lil" component={lil}/>
           <Route path="/mas" component={mas}/>
           <Route path="/post" component={post}/>
+          <Route path="/lion" component={lion}/>
 
 
 
