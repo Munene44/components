@@ -52,6 +52,8 @@ class Main extends Component {
             <li><NavLink to="/lil">lil</NavLink></li>
             <li><NavLink to="/mas">mas</NavLink></li>
             <li><NavLink to="/mas">mas</NavLink></li>
+            <li><NavLink to="/lion">lion</NavLink></li>
+
 
 
 
