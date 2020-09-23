@@ -12,3 +12,4 @@ const Form = (props) => {
 			</ul>
 			)
 		}
+export default Lion;
